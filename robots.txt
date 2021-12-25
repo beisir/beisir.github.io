@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+# 不允许搜索引擎访问 /secret
+User-agent: *
+Disallow: /secret
